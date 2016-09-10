@@ -52,3 +52,4 @@ production:
   database: git-app_production
   username: git-app
   password: <%= ENV['GIT-APP_DATABASE_PASSWORD'] %>
+  
