@@ -3,7 +3,10 @@ json.array!(@articles) do |article|
   json.url article_url(article, format: :json)
 end
 <<<<<<< HEAD
+<<<<<<< HEAD
 hogehoge
 hogehoge2
+=======
+>>>>>>> parent of 846fcce... hogehoge1
 =======
 >>>>>>> parent of 846fcce... hogehoge1
